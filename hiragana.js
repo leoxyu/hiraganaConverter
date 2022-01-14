@@ -1,11 +1,7 @@
 //change this 
 const input = 230
-// quick test too see how non-eng characters interact
-// capped at 999
-
 
 // hiragana from 0-9
-// never actually uses 0(?) but helps with zero indexing
 let nums = ["れい",
             "いち",
             "に",
